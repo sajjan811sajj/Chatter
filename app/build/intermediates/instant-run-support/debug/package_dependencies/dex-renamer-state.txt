@@ -1,0 +1,4 @@
+#Sun Nov 05 09:31:28 NPT 2017
+base.0=C\:\\Users\\sajja\\Desktop\\chat app\\Chatter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=C\:\\Users\\sajja\\Desktop\\chat app\\Chatter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex

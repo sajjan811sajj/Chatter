@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468040077136",
+    "firebase_url": "https://chatter-64dc2.firebaseio.com",
+    "project_id": "chatter-64dc2",
+    "storage_bucket": "chatter-64dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468040077136:android:4de3f07ab8c7a771",
+        "android_client_info": {
+          "package_name": "com.sajjanpaudel.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468040077136-tck65euapun8cf2lpdtmdih1g7grs2kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajjanpaudel.chatter",
+            "certificate_hash": "3f22b47ecffeb38347cbc9a4443f159c0fac6da2"
+          }
+        },
+        {
+          "client_id": "468040077136-6kbqglrceeiatfq9sif8ehousl952euk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_BecyjWCcpjqZZWMsQ50nG7-vF7X9nTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468040077136-6kbqglrceeiatfq9sif8ehousl952euk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
